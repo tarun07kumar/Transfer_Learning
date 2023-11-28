@@ -8,3 +8,5 @@ The general idea is to use the knowledge a model has learned from a task with a 
 Transfer learning is mostly used in computer vision and natural language processing tasks like sentiment analysis due to the huge amount of computational power required.
 
 Neural networks usually try to detect edges in the earlier layers, shapes in the middle layer and some task-specific features in the later layers. In transfer learning, the early and middle layers are used and we only retrain the latter layers. It helps leverage the labeled data of the task it was initially trained on.
+
+![transfer-learning](transfer-learning.jpeg)
